@@ -1,4 +1,4 @@
-## DICOM to NIfTI Conversion with RT-STRUCT and PET SUV Calculation
+##  🚀 DICOM to NIfTI Conversion with RT-STRUCT and PET SUV Calculation
 
 ### Overview
 This project provides a Python script to convert DICOM imaging data (including PET and RT-STRUCT DICOM files) into NIfTI format. It also extracts patient and scan attributes into a CSV file, optionally processes PET data to SUV units, and converts RT-STRUCT contours into NIfTI masks. The output is organized into a standardized directory structure that separates NIfTI results for each patient.
@@ -63,10 +63,5 @@ Contributions, bug reports, and improvements are welcome. Please open an issue o
 This project is distributed under the MIT License. Feel free to use, modify, and distribute the code.
 
 
-
-
-
-
-
-## NIFTI2RT
+##  🚀 NIFTI2RT
 This code converts the NIFTI mask file to RT-STRUCT format.
