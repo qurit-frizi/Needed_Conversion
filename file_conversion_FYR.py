@@ -8,7 +8,7 @@ import json
 import dateutil
 
 # Define your DICOM root directory here:
-IMAGE_FOLDER_PATH = "/content/drive/MyDrive/maziar_NET/data"
+IMAGE_FOLDER_PATH = "///data"
 
 ATTRIBUTE_FILE_NAME = "attributes.csv"
 HEADERS_FILE_NAME = "headers.json"
