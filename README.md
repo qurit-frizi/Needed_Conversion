@@ -65,3 +65,6 @@ This project is distributed under the MIT License. Feel free to use, modify, and
 
 ##  🚀 NIFTI2RT
 This code converts the NIFTI mask file to RT-STRUCT format.
+
+## 🚀 Maximum Intensity Pojection Visualization
+
